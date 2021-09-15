@@ -2,11 +2,11 @@
 Microsoft PowerApps canvas application
 
 ## About
-**Microsoft PowerApps canvas application to scan devices, manage employees, devices, licences and help desk**  
+**Microsoft PowerApps canvas application to scan devices, manage employees, devices, licences and help desk**   
 All confidential info has been changed to maintain the anonymity of the company and employees.  
 Datasource is dataverse.
 
-# Features 
+# Features
 1. Home Screen   
 1.1 Show the logged in user profile image and name.  
 1.2 Scan devices QR code.  
@@ -15,7 +15,11 @@ Datasource is dataverse.
 2.1 View, edit, delete and add employees, devices and licences.   
 2.2 On adding a new record or deleting, a popup window appears asking are you sure you wish to delete or add this record.  
 3. ICT screen  
-3.1 Change the ticket status and automatically switch color based on wether the ticket is waiting, managing or managed.
+3.1 Change the ticket status and automatically switch color based on wether the ticket is waiting, managing or managed. 
+
+# Inquiries
+Feel free to contact me if you are interested in a feature or are interested on how something works I'd be glad to help!  
+You can contact me at kristjan@kkristjan.com
 
 ![Home](https://user-images.githubusercontent.com/83809787/133393392-55660ec1-8dce-41a8-b675-c58f1724eea3.png)
 ![Employees](https://user-images.githubusercontent.com/83809787/133393401-8d26f433-b06c-4a00-b5f0-e7e6e537d7ea.png)
