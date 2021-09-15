@@ -15,7 +15,7 @@ Datasource is dataverse.
 2.1 View, edit, delete and add employees, devices and licences.   
 2.2 On adding a new record or deleting, a popup window appears asking are you sure you wish to delete or add this record.  
 3. ICT screen  
-3.1 Change the ticket status color based on wether the ticket is waiting, under work or managed.
+3.1 Change the ticket status and automatically switch color based on wether the ticket is waiting, managing or managed.
 
 ![Home](https://user-images.githubusercontent.com/83809787/133393392-55660ec1-8dce-41a8-b675-c58f1724eea3.png)
 ![Employees](https://user-images.githubusercontent.com/83809787/133393401-8d26f433-b06c-4a00-b5f0-e7e6e537d7ea.png)
@@ -27,3 +27,4 @@ Datasource is dataverse.
 ![Devices](https://user-images.githubusercontent.com/83809787/133393567-2977d2db-7a4a-4881-93ff-570ec85cb774.png)
 ![DevicesDetails](https://user-images.githubusercontent.com/83809787/133393577-bc133cf5-5818-4934-85c9-f0f3a6c510d0.png)
 ![DevicesNew](https://user-images.githubusercontent.com/83809787/133393593-44ea34d2-bf31-426d-b308-12702aa18083.png)
+![ICT](https://user-images.githubusercontent.com/83809787/133415253-cf93a1ed-b95b-443d-a6c5-ee75d6d055ae.png)
