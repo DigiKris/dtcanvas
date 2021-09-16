@@ -4,7 +4,8 @@ Microsoft PowerApps canvas application.
 ## About
 **Microsoft PowerApps canvas application to scan devices, manage employees, devices, licences and help desk**   
 All confidential info has been changed to maintain the anonymity of the company and employees.  
-This was a project I worked on in a team. Datasource is dataverse. 
+This was a project I worked on in a team.  
+Datasource is dataverse. 
 
 # Features
 1. Home Screen   
